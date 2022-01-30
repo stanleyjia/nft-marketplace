@@ -1,5 +1,7 @@
 # Basic NFT Marketplace on Ethereum using Polygon, Hardhat, and NextJS.
 
+Following tutorial: https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
+
 Commands:
 1. Create local wallets for testing: `npx hardhat node`
   
